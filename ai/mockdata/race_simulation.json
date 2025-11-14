@@ -1,0 +1,5 @@
+[
+  { "lap": 1, "positions": [1,2] },
+  { "lap": 2, "positions": [2,1] },
+  { "lap": 3, "positions": [2,1] }
+]
